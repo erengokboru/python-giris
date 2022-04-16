@@ -1,8 +1,8 @@
 ### Eren | Dersler
 
-## İf/Else/Elif
+# İf/Else/Elif Nedir?
 
-Örnek:
+# Örnek:
 
     yas = int(input(":"))
     giris_izni = 18
@@ -17,7 +17,9 @@
     else:
        print("Giris izni Verildi")
        
-       
+    
+    
+# Açıklamalar:      
 İf: eğer demektir yukardaki örnekte verdiğim gibi kullanıla bilir.
 
 
